@@ -1,0 +1,33 @@
+.most-searched-plants-section {
+  padding: 2rem 0;
+}
+
+.most-searched-plants-section h2 {
+  font-weight: bold;
+}
+
+.most-searched-plants-section p {
+  color: #616161;
+}
+
+.see-more-button {
+  display: flex;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.plant-card {
+  border: none;
+  text-align: center;
+  background-color: transparent;
+}
+
+.plant-card img {
+  border-radius: 10px;
+}
+
+.plant-card .card-title {
+  margin-top: 10px;
+  font-size: 1rem;
+  color: #333;
+}

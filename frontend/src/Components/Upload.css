@@ -1,0 +1,56 @@
+/* Upload.css */
+.upload-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .upload-container h2 {
+    margin-bottom: 20px;
+    color: #4CAF50;
+  }
+  
+  .custom-file-upload {
+    display: inline-block;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: #fff;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+  }
+  
+  .custom-file-upload:hover {
+    background-color: #45a049;
+  }
+  
+  .custom-file-upload input[type="file"] {
+    display: none;
+  }
+  
+  .upload-container .btn-primary {
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+    border-radius: 20px;
+    padding: 10px 20px;
+  }
+  
+  .upload-container .btn-primary:hover {
+    background-color: #45a049;
+    border-color: #45a049;
+  }
+  
+  .image-preview {
+    margin: 20px 0;
+  }
+  
+  .image-preview img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  

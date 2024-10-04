@@ -1,0 +1,33 @@
+.footer-section {
+    background-color: #e0f7fa; /* Match the background color */
+    padding: 2rem 0;
+  }
+  
+  .footer-section h5 {
+    font-weight: bold;
+  }
+  
+  .footer-section p {
+    margin-bottom: 1rem;
+    color: #616161;
+  }
+  
+  .footer-section .social-icons .me-3 {
+    font-size: 1.5rem;
+    color: #616161;
+  }
+  
+  .footer-section .nav-link {
+    color: #616161;
+    padding: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-section .nav-link:hover {
+    color: #000;
+  }
+  
+  .footer-section .text-center {
+    color: #616161;
+  }
+  
